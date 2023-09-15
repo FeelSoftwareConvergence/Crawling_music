@@ -1,5 +1,4 @@
 # Crawling
-<h4> 프로젝트 진행 중 </h4>
   <p> 1. instagram crawling 완료 ( 전처리 및 dataframe화 ) </p>
   <p> 완료 : 날짜 위치 본문내용 해시태그 댓글 및 모든 답글  </p>
   <p>         답글 내용 @아이디, : 제거 후 대화 내용만 정제 </p>
